@@ -6,7 +6,7 @@ We provide the processed dataset used in our experiments via Baidu Netdisk:
 
 ([Download Link}:(https://pan.baidu.com/s/166_4yLBUmFe896va1BBjnA )) 
 
-password: cbb2
+password: XXXX
 
 # License
 This project is released under the MIT License
